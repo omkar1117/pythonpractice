@@ -1,0 +1,10 @@
+name = input("Enter your Full Name:")
+mobile = input("Enter your phone number:")
+address = input("Ener your Address:")
+
+print("----------------- User Details ----------------")
+print("Your entered values are")
+print("User Full Name is:", name)
+print("User Mobile no. is:", mobile)
+print("User Address is:", address)
+print("----------------- The End ----------------")
