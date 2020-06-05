@@ -1,6 +1,5 @@
 import sys
 
-# l=[]
 name = input("Enter your First Name:")
 lname = input("Enter your Last Name:")
 email = input("Enter a valid Email:")
@@ -14,7 +13,6 @@ l=[name, lname, email, mobile]
 print("Your values have been registered")
 print("Values Here:", l)
 
-
 gender = input("Enter Your Gender in the Values of M/F ::")
 l.append(gender)
 
@@ -25,7 +23,6 @@ print("Values Updated Here", l)
 
 x = l[-1]
 print("Element as Last index of List:", x)
-
 
 # pop element from Last index of List
 l.pop()
