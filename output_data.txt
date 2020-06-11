@@ -1,0 +1,4 @@
+Full Name :  Omkar Test
+email     :  test@test.in   	phone     :  23456789
+address   :  Hyd            	loc       :  Hyd
+hobbies   :  Blogger        	sports    :  Cricket
